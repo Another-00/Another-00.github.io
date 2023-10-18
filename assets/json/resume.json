@@ -26,7 +26,7 @@
       "endDate": "1905-01-01",
     }
   ],
-  "skills": [],
+  "skills": ["Python、MS office、SPSS、PS、AI"],
   "languages": [
     {
       "language": "Chinese",
@@ -41,5 +41,5 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": ["Games, Sports, Travel"],
 }
