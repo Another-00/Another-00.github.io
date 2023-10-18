@@ -27,25 +27,17 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Brand Building Marketing Intern
-      institution: Unilever
+    - title: Unilever
+      institution: Brand Building Marketing Intern
       year: 2022.09 – 2022.12
-      description:
-        - Description 1.
-        - Description 2.
         
-    - title: 
-      institution: Red
+    - title: Red
+      institution: E-commerce Operation Intern
       year: 2022.05 – 2022.08
-      description:
-        - Description 1.
-        - Description 2.
 
-    - title: Director
-      institution: Tencent
+    - title: Tencent
+      institution: Content Operation Intern
       year: 2021.09 – 2021.12
-      description:
-
         
 - title: Other Interests
   type: list
