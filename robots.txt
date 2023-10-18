@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Another-00.github.io/sitemap.xml
